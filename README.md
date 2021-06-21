@@ -1,1 +1,1 @@
-# gatelogic.github.io
+# GateLogic
